@@ -1,7 +1,6 @@
 # 42-Philosophers
 
 ## Introduction
-A program that solves the classic philosopher problem using threads and mutexes. The bonus is done using forks and semaphores instead.
 The mandatory part of this project asks us to solve the <a href='https://en.wikipedia.org/wiki/Dining_philosophers_problem'>dining philosophers problem</a> and 
 implement a mutithreading solution. In order to better understand the solution that we are going to implement in this project I suggest you to read something about what
 a thread is and how multithreading works, I'll leave a couple of wikipedia references to start learning about these topics:
